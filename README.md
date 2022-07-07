@@ -8,7 +8,7 @@
 💬 &nbsp;Feel free to reach out to me for questions, work opportunities and freelance projects.\
 ✉️ &nbsp;You can contact me at via email at ziad.abdelrahman.ibrahim@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1E_Dgqm3YEZQrjIGmCvcXjPpiTBEy1l0f/view?usp=sharing) for more details about me you can check my [Linkedin](https://www.linkedin.com/in/ziad-ibrahim-12391279/).\
-💻 Check my website [Here](https://github.com/rameziophobia?tab=repositories) and my upwork profile [UpWork](https://www.upwork.com/freelancers/~010a8d31c05264e9ee).
+💻 Check my website [Here](https://www.ziadibrahim.xyz/) and my upwork profile [UpWork](https://www.upwork.com/freelancers/~010a8d31c05264e9ee).
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
