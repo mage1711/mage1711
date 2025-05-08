@@ -7,8 +7,7 @@
 💡 &nbsp;I like to explore new technologies and methods to improve performance.\
 💬 &nbsp;Feel free to reach out to me for questions, work opportunities and freelance projects.\
 ✉️ &nbsp;You can contact me at via email at ziad.abdelrahman.ibrahim@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1OkNSSEnlORDfzDFmD4DHfo3XpX6f-xcr/view) for more details about me you can check my [Linkedin](https://www.linkedin.com/in/ziad-ibrahim-12391279/).\
-💻 Check my website [Here](https://www.ziadibrahim.dev/).
+📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1OkNSSEnlORDfzDFmD4DHfo3XpX6f-xcr/view) for more details about me you can check my [Linkedin](https://www.linkedin.com/in/ziad-ibrahim-12391279/).
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
